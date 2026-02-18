@@ -1,5 +1,9 @@
 # 📄 ResuMate - Resume Builder Application
 
+<img width="1892" height="922" alt="image" src="https://github.com/user-attachments/assets/b1272fcd-38bf-42c4-9059-585e8118f1c6" />
+
+---
+
 ResuMate is a full-stack **Resume Builder Web Application** built using:
 
 - ⚛️ React.js (Frontend)
@@ -241,9 +245,6 @@ http://localhost:5000
 
 This project is for educational use only.
 
----
 
-## Wellcome Page
 
-<img width="1892" height="922" alt="image" src="https://github.com/user-attachments/assets/b1272fcd-38bf-42c4-9059-585e8118f1c6" />
 
